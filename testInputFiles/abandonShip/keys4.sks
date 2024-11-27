@@ -1,0 +1,68 @@
+t
+906632001
+l
+ex
+toto
+
+l
+s
+pho 3
+8 3
+7 5
+7 1
+s
+pho 3
+1 5
+1 7
+10 7
+s
+pho 3
+10 7
+5 7
+1 5
+s
+pho 1
+1 7
+s
+pho 1
+1 7
+s
+pha m
+120
+l
+c
+s
+sh d
+w 7
+m a 7 5 10 1
+l
+s
+sen
+pho 3
+9 4
+1
+9 4
+abandon
+call
+s
+l
+m m -.1 0
+da
+s
+rest
+1
+y
+l
+s
+rest
+1
+y
+l
+s
+da
+destruct
+rest
+4
+y
+n
+n

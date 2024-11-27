@@ -1,0 +1,51 @@
+t
+278110922
+l
+good
+toto
+c
+l
+s
+pha m
+520
+sh d
+w 6
+c
+s
+m a 10 1
+sh u
+m m -.1 0
+l
+s
+m a 7 7
+pho 2
+2 7
+8 10
+s
+pha m
+340
+c
+s
+sh d
+m a 6 6
+s
+m a 8 2
+s
+m a 10 2
+l
+sh u
+m m -.2 -.2
+l
+s
+pha m
+480
+600
+690
+s
+m m 0 -.1
+d
+da
+c
+quit
+n
+n

@@ -1,0 +1,819 @@
+t
+78110159
+l
+em
+toto
+c
+l
+s
+c
+s
+w 6
+m a 1 4
+m a 1 1
+sh u
+m m -.1 .1
+l
+s
+m m .1 0
+l
+s
+pha m
+1400
+sh d
+m m -.1 0
+s
+m a 7 10
+d
+da
+c
+s
+sh u
+m m 0 -.4
+l
+s
+pho 3
+1 6
+2 7
+7 9
+s
+l
+m m 0 .1
+s
+m a 8 8
+s
+m a 4 6
+d
+da
+c
+s
+sh d
+m a 1 6
+m a 1 1
+s
+k
+l
+sh u
+m m -.1 .1
+l
+s
+pho 2
+9 10
+7 7
+s
+pho 3
+8 10
+6 8
+7 6
+s
+pha m
+90
+320
+390
+sh d
+l
+s
+m m .1 -.1
+l
+s
+m m -.1 0
+s
+m m .1 0
+s
+m a 8 9
+d
+da
+c
+s
+m m .2 -1.2
+l
+s
+m a 5 3
+pha m
+950
+310
+0
+0
+0
+0
+s
+pho 3
+2 2
+6 10
+9 7
+s
+l
+s
+m m .9 0
+l
+s
+sen
+pha m
+350
+560
+s
+sh d
+m a 2 7
+d
+da
+c
+report
+s
+sh u
+m m .4 0
+l
+s
+pho 3
+2 4
+4 2
+5 2
+s
+pho 3
+1 1
+3 2
+2 5
+s
+pha m
+340
+415
+l
+s
+sh d
+m m -.1 0
+l
+s
+sen
+m a 4 1
+s
+m a 7 1
+df
+d
+da
+c
+w 8
+s
+m a 5 3 1 1
+l
+s
+w 6
+sh u
+m m -.1 0
+l
+s
+m a 3 5
+pha m
+1300
+d
+da
+c
+s
+m m 0 .3
+l
+s
+l
+s
+m a 1 7
+c
+s
+m m 0 .1
+l
+s
+pho 3
+9 7
+10 6
+9 7
+s
+pho 3
+8 7
+10 6
+6 4
+s
+sh d
+c
+s
+m m 0 -2
+l
+s
+m a 7 2
+d
+da
+c
+s
+m a 10 1
+sh u
+m m -.1 -.1
+l
+s
+pho 1
+2 9
+l
+s
+m a 4 7
+s
+l
+s
+da
+m a 5 4
+pha m
+820
+350
+390
+0
+0
+0
+s
+pho 3
+1 2
+5 9
+1 2
+s
+c
+s
+m m .7 0
+l
+s
+m a 5 5
+d
+da
+c
+s
+m m 0 .5
+l
+s
+pho 3
+6 3
+8 7
+2 7
+s
+l
+m m 0 -.1
+s
+m a 1 7
+d
+da
+c
+s
+m a 1 1
+m m -.1 .1
+l
+s
+pho 3
+2 9
+5 7
+9 7
+s
+l
+c
+s
+m m 0 1
+l
+s
+m a 1 7
+pha m
+1350
+sh d
+c
+s
+sh d
+m a 7 8
+s
+m a 4 6 10 10
+l
+s
+l
+m m .1 -.1
+l
+s
+sen
+m a 2 5
+d
+da
+c
+s
+l
+c
+s
+m a 1 6
+l
+m m 0 1
+l
+s
+sen
+sh u
+m m 0 .1
+l
+s
+pha m
+980
+c
+s
+sh d
+m a 1 7
+m m 0 .1
+l
+s
+c
+s
+m a 6 10
+s
+m m .1 0
+l
+s
+pha m
+575
+c
+probe
+y
+y
+a
+1 7
+report
+s
+m a 10 5
+l
+s
+m m 0 -1
+l
+s
+sen
+m a 9 7
+orbit
+shuttle
+mine
+transport
+n
+s
+c
+probe
+y
+y
+a
+1 8
+s
+m a 10 6
+c
+m a 5 7 1 10
+l
+s
+m a 6 10
+s
+m m -.1 0
+d
+da
+c
+report
+probe
+y
+y
+a
+1 6
+c
+s
+m a 10 10
+l
+sh u
+m m 0 -.1
+l
+s
+m a 6 10
+s
+pho 3
+6 1
+6 1
+5 1
+s
+pha m
+755
+l
+s
+m m .1 0
+l
+s
+pho 3
+4 2
+4 5
+2 4
+s
+m a 1 1
+s
+pho 2
+3 9
+4 9
+pha m
+370
+s
+c
+s
+sh u
+m m 0 .1
+l
+s
+pha m
+520
+s
+c
+s
+m m -.1 0
+l
+s
+sh d
+m a 10 4
+l
+s
+m a 10 4
+pha m
+980
+sh d
+s
+crystals
+y
+l
+s
+c
+s
+w 7
+sh d
+m a 5 2 1 10
+l
+s
+m a 6 10
+d
+da
+w 6
+c
+s
+m a 7 10
+s
+m a 10 7
+l
+sh u
+m m 0 -.1
+l
+s
+pho 1
+7 3
+l
+c
+s
+m m -.8 0
+l
+s
+pho 1
+2 5
+l
+s
+m a 2 10
+m a 10 10
+l
+s
+m m 0 -.1
+l
+s
+pho 3
+3 9
+4 7
+4 10
+s
+pho 3
+1 1
+3 1
+4 1
+s
+pha m
+420
+450
+c
+s
+sh d
+m a 5 2 10 1
+s
+m a 9 2
+s
+m a 1 1
+l
+c
+s
+m a 3 2 1 1
+l
+s
+sh u
+m m -.1 .1
+l
+s
+pho 3
+5 9
+2
+5 9
+9 7
+s
+m a 4 4
+pha m
+265
+260
+sh d
+c
+s
+sh u
+m m 0 .4
+l
+s
+pha m
+300
+sh d
+c
+s
+w 7
+m a 5 2 1 1
+l
+s
+w 6
+m a 3 3
+s
+m a 3 9
+s
+m a 5 9
+d
+da
+c
+s
+m a 1 10
+m m 0 1
+l
+s
+sh u
+m m .1 .1
+l
+s
+m a 4 1
+s
+pho 3
+2 3
+1 4
+7 8
+s
+pha m
+435
+l
+c
+s
+sh d
+m a 10 1
+c
+s
+m a 8 3 1 5
+l
+s
+m a 9 6
+l
+s
+deathray
+y
+l
+s
+c
+s
+sh d
+m a 10 9
+m a 8 3 1 10
+l
+s
+d
+da
+c
+s
+sh u
+m m .1 0
+l
+s
+pho 3
+2 1
+1 3
+3 3
+s
+pha m
+480
+790
+m m -.1 0
+l
+s
+pha m
+670
+sh d
+s
+m a 4 3
+d
+da
+c
+report
+s
+m a 1 10
+sh u
+m m .1 .1
+l
+s
+pho 1
+4 2
+l
+c
+s
+m a 1 3
+m m 0 .1
+l
+s
+sen
+pho 3
+3 3
+3 6
+8 6
+s
+l
+s
+m a 1 3
+m m 0 .1
+l
+s
+m a 10 4
+s
+pho 3
+9 2
+7 2
+9 6
+s
+pho 3
+9 2
+7 6
+6 4
+s
+pha m
+200
+280
+180
+s
+sh d
+c
+s
+m m 0 -.21
+l
+c
+s
+sen
+sh d
+w 7
+m a 8 3 1 10
+s
+m a 9 5
+w 4
+m a 9 5
+d
+da
+rest
+2.16
+s
+c
+s
+w 6
+m a 7 4 1 10
+l
+s
+m a 1 9
+m a 7 4 1 10
+l
+sh u
+m m .1 .1
+l
+s
+pho 3
+8 1
+10 4
+2 2
+s
+c
+s
+m m 1 0
+l
+s
+pho 3
+10 7
+2 8
+1 8
+s
+l
+m m 1 -.1
+l
+s
+sh d
+m a 3 5
+s
+m a 8 5
+d
+da
+c
+s
+m a 10 10
+sh u
+m m .1 -.1
+l
+s
+pho 3
+3 2
+4 9
+6 7
+s
+pha m
+700
+740
+sh d
+l
+m m -.1 .1
+l
+s
+d
+da
+c
+s
+m a 9 9 
+s
+m a 1 9
+sh u
+m m 0 .1
+l
+s
+pha m
+490
+c
+s
+sh d
+m a 6 6
+s
+m a 1 1
+l
+sh u
+m m -.1 .1
+l
+s
+pho 1
+8 2
+l
+s
+m m -1 0
+l
+s
+pho 3
+10 9
+8 8
+6 8
+s
+pha m
+535
+403
+530
+510
+l
+c
+s
+crystals
+y
+l
+s
+c
+s
+sh d
+m m 0 1.8
+l
+s
+sh u
+m m 0 .2
+l
+s
+pho 3
+10 9
+7 9
+8 7
+s
+l
+s
+m m -1 0
+l
+s
+m a 5 5
+pha m
+300
+340
+370
+440
+l
+s
+m m 0 .5
+l
+s
+pha m
+330
+c
+s
+m a 5 5
+m a 1 6 5 5
+s
+destruct
+toto
+n
+n

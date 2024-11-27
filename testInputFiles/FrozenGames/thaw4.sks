@@ -1,0 +1,202 @@
+f
+dale
+
+s
+c
+s
+sh u
+w 7
+m m .1 .1
+l
+s
+pho 2
+8 5
+10 7
+s
+pho 3
+10 7
+9 8
+5 5
+s
+l
+c
+sh d
+s
+m a 8 2 1 10
+s
+m a 1 8
+d
+da
+c
+s
+m a 7 3 1 10
+l
+s
+sh u
+sen
+sh d
+s
+m a 4 7
+orbit
+transport
+mine
+shuttle
+s
+m a 1 10
+sh u
+m m .1 .1
+l
+s
+m a 10 8
+s
+pho 1
+3 8
+l
+s
+m a 1 3
+m m 0 .1
+l
+s
+pho 1
+9 4
+l
+m m 0 -.1
+s
+m m 0 .1
+m m 0 -.1
+s
+sh u
+l
+m m -.3 0
+l
+s
+sen
+pho 1
+10 9
+l
+s
+m m 0 .1
+l
+s
+m a 6 5
+s
+m a 9 4
+s
+pho 3
+8 4
+8 3
+6 4
+s
+pho 2
+6 3
+6 1
+sh d
+c
+call
+l
+s
+c
+s
+m a 10 1
+m m 0 -1
+l
+s
+sen
+sh u
+m m 0 -.1
+l
+s
+pha m
+450
+l
+s
+m m 1 0
+s
+m a 5 5
+pha m
+120
+l
+s
+m m 0 -.6
+l
+s
+pha m
+600
+l
+s
+sen
+m m 0 -.1
+s
+m m 0 .2
+s
+l
+c
+m a 8 2 5 5
+sh
+y
+-1000
+m a 8 2 5 5
+s
+m a 7 5
+call
+l
+c
+s
+w 6
+sh d
+m a 1 4
+l
+s
+m a 1 10
+sh u
+m m .1 .1
+l
+s
+pha m
+700
+500
+l
+s
+m a 7 7
+s
+abandon
+l
+s
+c
+s
+m m 0 -1
+l
+s
+m a 9 1
+s
+l
+sh u
+m m -.1 -.2
+l
+s
+m a 5 10
+s
+pho 3
+2 9
+3 8
+4 5
+s
+pho 3
+6 10
+7 10
+4 8
+s
+pha m
+25
+c
+s
+m a 6 3 5 5
+l
+s
+sen
+planets
+report
+destruct
+toto
+n
+n

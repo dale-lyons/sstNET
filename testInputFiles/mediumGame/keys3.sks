@@ -1,0 +1,38 @@
+t
+305419896
+m
+ex
+toto
+l
+s
+c
+s
+w 6
+sh u
+l
+c
+s
+m a 10 1
+s
+m m -.1 -.1
+l
+s
+sen
+pha m
+900
+s
+m a 3 5
+s
+m a 3 2
+c
+s
+m m -.2 0
+l
+s
+
+m a 10 9
+s
+da
+quit
+n
+n

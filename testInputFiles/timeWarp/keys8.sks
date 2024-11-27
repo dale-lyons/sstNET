@@ -1,0 +1,199 @@
+t
+200918818
+s
+em
+toto
+
+l
+s
+c
+s
+w 8
+sh u
+m a 10 5
+m m 0 -.1
+l
+s
+pho 3
+2 7
+5 8
+5 4
+s
+pho 3
+2 5
+2 6
+2 7
+s
+pha m
+270
+sh d
+c
+s
+m a 1 10
+w 10
+m m 1 0
+l
+s
+c
+m m 1 0
+l
+s
+w 6
+sh
+y
+-900
+l
+c
+s
+m m 1 0
+l
+s
+l
+m m 1 0
+l
+s
+c
+m m .1 .1
+l
+s
+m a 5 1
+d
+da
+s
+m m ,1 0
+w 10
+m m .1 0
+pha m
+1100
+d
+da
+c
+s
+w 10
+m a 10 1
+s
+m m 0 -1
+l
+s
+pho 1
+8 4
+pha m
+340
+sh d
+c
+da
+w 4
+s
+m a 9 2
+m a 1 1
+l
+s
+m a 5 10
+l
+s
+deathray
+y
+l
+s
+
+pha m
+280
+290
+290
+0
+0
+l
+s
+sh
+y
+-900
+pha m
+550
+l
+sh d
+s
+pho 1
+7 5
+s
+pho 1
+8 5
+s
+pho 1
+10 5
+s
+l
+m m 0 -.5
+l
+s
+c
+s
+da
+c
+m a 5 10
+c
+s
+m a 10 10
+c
+l
+s
+m m .1 -.1
+c
+l
+s
+m a 10 10
+c
+s
+l
+c
+s
+m m 1 -1
+c
+l
+s
+m m .1 -.1
+c
+l
+c
+s
+c
+m a 3 3
+c
+s
+m a 3 6
+c
+d
+da
+
+da
+c
+probe
+y
+y
+a
+8 4
+s
+w 8
+m a 1 10
+s
+l
+m m 0 1
+l
+s
+sh u
+m m 0 .1
+l
+s
+sen
+m a 6 7
+pha m
+735
+0
+c
+s
+w 6
+m a 6 1
+c
+pho 1
+1 1
+n
+n

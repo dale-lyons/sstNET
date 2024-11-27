@@ -1,0 +1,80 @@
+t
+305092216
+m
+ex
+toto
+
+l
+s
+report
+c
+s
+w 6
+m m -.4 -.2
+l
+s
+l
+m m 0 -1
+l
+s
+m a 2 6
+d
+da
+c
+s
+m a 3 10
+sh u
+m m .1 0
+l
+s
+m m -.1 0
+l
+s
+sh d
+m a 7 10
+d
+report
+c
+s
+m m 1 0
+l
+s
+sh u
+m m .1 0
+s
+m a 7 5
+pha m
+1300
+sh d
+c
+m a 3 6 1 10
+s
+l
+s
+m a 5 10
+pha m
+720
+sh d
+c
+s
+m a 3 6 1 1
+l
+s
+m a 7 1
+d
+da
+c
+report
+s
+m a 10 10
+l
+m m .1 -.1
+l
+s
+sen
+m a 7 5
+orbit
+transport
+mine
+n
+n

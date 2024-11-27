@@ -1,0 +1,141 @@
+f
+dale
+s
+m m 0 -.1
+l
+s
+pho 2
+2 4
+9 8
+pha m
+255
+l
+c
+s
+sh d
+m a 7 1
+m m -1 0
+l
+s
+pha m
+895
+c
+s
+m m -.1 -.4
+l
+s
+m m .1 .1
+
+m m -.1 .1
+l
+s
+l
+m m 0 -.2
+l
+s
+m a 5 9
+s
+m a 8 9
+d
+da
+c
+s
+sh u
+m m .2 0
+l
+s
+pho 3
+10 1
+7 2
+8 3
+s
+pho 3
+5 6
+9 6
+9 9
+s
+pha m
+435
+sh d
+m m -.1 0
+l
+s
+d
+da
+c
+probe
+y
+y
+a
+2 2
+l
+s
+m m .1 0
+l
+s
+m a 1 1
+c
+s
+m m 0 2
+l
+s
+sh u
+m m -.1 .1
+l
+s
+m a 7 10
+
+s
+pho 3
+8 9
+3 7
+9 6
+s
+pho 1
+9 1
+l
+sh d
+c
+s
+m a 10 10
+m m 0 -1
+l
+s
+l
+m m 0 -1
+l
+s
+c
+s
+m m 0 -.1
+l
+s
+m a 5 7
+d
+da
+c
+s
+planets
+m a 1 1
+m a 5 2 1 1
+l
+s
+pha m
+965
+sen
+sh d
+s
+m a 5 9
+orbit
+l
+s
+m a 8 4
+pha m
+965
+sh d
+l
+c
+planets
+quit
+n
+n

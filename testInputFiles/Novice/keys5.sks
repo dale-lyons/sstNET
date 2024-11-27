@@ -1,0 +1,83 @@
+t
+577320091
+s
+n
+toto
+report
+l
+s
+sh u
+w 9
+l
+s
+sh d
+m a 1 2
+s
+s
+m a 2 2
+s
+m a 1 1
+sh u
+m m -.1 .1
+l
+l
+s
+sen
+pha m
+305
+sh d
+s
+m a 7 6
+orbit
+shuttle
+mine
+shuttle
+s
+report
+c
+s
+w 7
+m a 1 6
+m m 0 .1
+l
+s
+c
+probe
+y
+n
+a
+1 8
+s
+m m -1 0
+l
+s
+m a 6 1
+l
+c
+s
+m a 1 3
+m m 0 1
+l
+s
+c
+m m 0 1
+probe
+y
+n
+a
+8 8
+l
+s
+c
+s
+m m 0 .1
+l
+s
+m a 1 6
+sh u
+m m 0 .1
+l
+s
+quit
+n
+n

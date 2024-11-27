@@ -1,0 +1,643 @@
+t
+388304117
+m
+g
+toto
+
+l
+s
+sen
+w 7
+m a 7 8
+s
+m a 7 4
+orbit
+shuttle
+mine
+transport
+n
+c
+s
+m a 6 8
+m a 1 10
+planets
+report
+sh u
+m m .1 .1
+l
+s
+pho 3
+9 1
+10 5
+5 6
+s
+l
+s
+m a 4 10
+pha m
+235
+s
+m m .1 .4
+l
+s
+m a 7 10
+d
+da
+
+c
+s
+m m 0 -.4
+l
+s
+m a 9 5
+pha m
+875
+l
+s
+m m .6 -.2
+l
+s
+m a 5 8
+pha m
+945
+l
+s
+sh d
+
+w 4
+m a 1 1
+sh u
+m m -.1 0
+l
+s
+m a 8 2
+d
+da
+s
+pho 2
+6 2
+6 2
+da
+c
+probe
+y
+n
+a
+1 8
+s
+sh d
+m a 1 7
+c
+s
+w 7
+m m 1.3 0
+sh u
+l
+m m .1 0
+l
+s
+m a 1 7
+pha m
+1100
+sh d
+s
+c
+s
+m m 0 .1
+l
+s
+m a 10 1
+pha m
+525
+sh
+y
+-1500
+w 6
+c
+s
+m a 6 3 10 10 
+l
+s
+m a 7 6
+pha m
+705
+sh d
+c
+report
+planets
+c
+s
+m a 6 1
+m a 6 3 1 10
+planets
+report
+c
+s
+m a 9 10
+d
+da
+s
+report
+sh u
+c
+s
+w 7
+m a 5 1
+s
+m m -.1 0
+l
+s
+pho 1
+7 7
+s
+pha m
+600
+c
+s
+m m -1 0
+l
+s
+sen
+pha m
+1300
+s
+pha m
+300
+s
+sh
+y
+-1200
+s
+pha m
+0
+s
+m m .1 0
+l
+s
+call
+l
+s
+c
+report
+s
+sh d
+w 7
+m m -1.2 0
+l
+s
+sh u
+m m -.1 0
+l
+s
+sen
+m a 10 8
+s
+pho 1
+6 3
+s
+pha m
+800
+s
+m a 10 3
+orbit
+l
+c
+s
+sh d
+m a 4 4
+s
+m a 1 7
+l
+sh u
+m m 0 .1
+l
+s
+pho 1
+1 5
+s
+pha m
+1000
+l
+s
+c
+m a 6 3 1 1
+s
+sh d
+s
+m a 7 1
+s
+d
+da
+c
+s
+m m -.1 0
+l
+s
+m a 1 7
+m m 0 1
+l
+s
+c
+s
+m m 0 1
+l
+s
+sen
+c
+s
+m m 0 1
+l
+s
+c
+s
+m m 0 .1
+l
+s
+c
+s
+m m 1.3 0
+planets
+c
+l
+c
+s
+sh u
+m m .1 -.1
+l
+s
+pho 3
+5 3
+4 8
+8 5
+da
+s
+m a 6 7
+pha m
+250
+200
+270
+275
+285
+sh d
+da
+c
+report
+probe
+y
+y
+a
+4 4
+sh d
+w 7
+sh
+y
+-1200
+s
+m a 6 1
+m a 6 3 1 10
+s
+m m -.1 0
+s
+m a 10 9
+s
+m a 6 3 1 10
+l
+s
+m a 1 5
+d
+da
+report
+c
+s
+m m 0 -1
+l
+s
+sh u
+m m 0 .1
+l
+s
+m a 8 10
+s
+pho 1
+9 4
+pha m
+1200
+l
+s
+m a 5 6
+s
+m a 3 6
+d
+da
+c
+probe
+y
+y
+a
+4 1
+s
+sh d
+m a 2 7
+m a 1 10
+l
+c
+m m 1 1
+l
+s
+w 7
+m a 7 1
+m m -.1 -.4
+l
+s
+sh u
+l
+s
+pha m
+1000
+s
+m a 1 9
+d
+da
+c
+s
+sh d
+m m 1.1 1
+l
+s
+m a 9 1
+s
+m a 6 2
+s
+m m -.2 -.2
+l
+s
+l
+m m .5 0
+l
+s
+c
+s
+m m -1 0
+l
+s
+call
+s
+pha m
+da
+c
+report
+probe
+y
+a
+y
+a
+4 1
+s
+m a 1 10
+l
+m m 1 1
+l
+s
+m a 9 1
+m m -.1 -.2
+l
+s
+pha m
+1200
+sh u
+c
+s
+sh d
+m a 8 5
+d
+da
+c
+s
+m a 1 10
+l
+c
+probe
+s
+w 6
+m m 1 1
+l
+s
+c
+m m 1 1
+l
+s
+sh u
+m m .1 0
+l
+s
+pha m
+1500
+sh d
+c
+m a 6 3 1 10
+l
+s
+m a 1 2
+d
+da
+report
+c
+s
+m m 0 -2
+l
+s
+pha m
+1050
+sh d
+s
+c
+s
+m a 6 3 5 5
+s
+m a 2 9
+d
+da
+report
+planets
+c
+s
+m a 2 3 1 10
+l
+s
+sh u
+m m .1 .1
+l
+s
+pho 3
+9 1
+8 4
+9 9
+s
+pha m
+440
+380
+s
+c
+s
+m m 0 -.1
+l
+s
+m m 1 0
+l
+s
+sh u
+m a 5 1
+s
+pho 3
+4 7
+3 9
+5 9
+s
+pha m
+440
+sh d
+c
+s
+s
+m a 6 3 5 5
+s
+m a 3 6
+d
+da
+s
+m a 1 10
+pho 1
+4 7
+l
+report
+c
+s
+m a 7 6 5 10
+l
+c
+s
+m m .1 0
+l
+s
+call
+abandon
+planets
+s
+c
+m a 8 1 5 5
+s
+sen
+m a 8 2
+orbit
+transport
+shuttle
+c
+s
+m a 6 10
+m a 6 3 5 5
+s
+c
+planets
+s
+m a 1 10
+m a 5 7 5 5
+l
+s
+c
+s
+m a 1 7
+m m 0 .1
+l
+s
+l
+c
+s
+m m 0 2
+l
+s
+sen
+pho 2
+4 2
+4 2
+s
+pho 1
+3 2
+s
+sh
+n
+n
+crystals
+y
+l
+s
+c
+w 7
+s
+m a 8 1 5 5
+l
+s
+report
+m a 7 8
+s
+c
+m a 7 7 5 5
+l
+s
+m a 1 1
+m a 8 1 1 10
+l
+s
+m a 7 7 1 1
+w 6
+m a 7 7 1 1
+l
+s
+report
+crystals
+y
+l
+s
+report
+m a 8 1 1 10
+m a 7 7 1 1
+l
+s
+m a 8 1 1 10
+m a 7 7 1 1
+s
+pha m
+200
+s
+report
+crystals
+y
+l
+s
+m a 8 1 1 10
+m a 7 7 1 1
+m a 8 1 1 10
+m a 7 7 1 1
+s
+m a 8 1 1 10
+m a 7 7 1 1
+s
+c
+m a 8 1 1 10
+m a 7 7 1 1
+s
+report
+crystals
+y
+s
+m a 8 1 1 10
+m a 7 7 1 1
+m a 8 1 1 10
+m a 7 7 1 1
+s
+pha m
+500
+report
+crystals
+y
+n
+n

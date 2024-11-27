@@ -1,0 +1,164 @@
+t
+397715209
+m
+fair
+toto
+
+l
+s
+c
+reort
+report
+sh u
+w 6
+s
+m m -.9 0
+l
+s
+m a 1 6
+pha m
+860
+l
+s
+m m 0 .1
+l
+s
+m a 6 3
+pha m
+880
+sh d
+c
+s
+m a 1 10
+sh u
+m m .1 0
+l
+s
+pho 1
+1 8
+pha m
+150
+540
+sh d
+c
+s
+m m 1 1
+l
+s
+sen
+c
+s
+m m 0 1
+l
+s
+m m 0 1
+l
+s
+m m 0 .1
+l
+s
+m a 9 2
+d
+da
+report
+c
+probe
+y
+y
+a
+1 1
+s
+m a 1 1
+m m -.1 .1
+l
+s
+c
+s
+m a 10 1
+m a 1 1
+sh u
+m m -.1 .1
+l
+s
+pho 3
+10 7
+8 6
+6 6
+pha m
+360
+l
+c
+s
+sh d
+m a 10 1
+m m -1 -.1
+l
+s
+m a 5 1
+m m -.1 0
+l
+s
+sen
+m a 10 10
+sh u
+m m 0 -.1
+l
+s
+m a 5 1
+pha m
+340
+c
+s
+sh d
+m m -1 0
+l
+s
+m a 1 1
+m m -.1 .1
+l
+s
+pha m
+440
+s
+sh d
+m a 4 10
+s
+m a 2 7
+d
+da
+c
+probe
+y
+y
+a
+8 3
+s
+m m 0 -1.8
+l
+s
+sen
+m m 0 -1
+l
+s
+c
+s
+m m 0 -1
+l
+s
+c
+m m 0 -1
+l
+s
+c
+s
+m m 0 -.1
+l
+s
+m a 7 7 
+s
+m a 10 1
+l
+m m -.1 -.1
+l
+n
+n

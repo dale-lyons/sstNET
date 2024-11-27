@@ -1,0 +1,877 @@
+t
+099385541
+l
+em
+toto
+c
+l
+s
+pha m
+0
+pho 1
+2 6
+sh d
+s
+m a 1 5
+s
+w 6
+m a 2 9
+orbit
+shuttle
+sen
+shuttle
+mine
+transport
+n
+l
+c
+report
+s
+m m 0 1.1
+l
+s
+c
+m m 0 1
+l
+s
+sh u
+m m 0 .1
+l
+s
+pha m
+305
+375
+365
+0
+0
+0
+0
+0
+0
+d
+da
+s
+m m 0 .1
+pha m
+280
+320
+355
+305
+316
+390
+d
+da
+c
+report
+s
+m m 0 -.2
+l
+s
+m a 2 10
+m m .1 0
+l
+s
+pho 3
+1 1
+1 3
+6 3
+s
+pha m
+715
+l
+m m -.1 .2
+l
+s
+sh d
+m a 5 6
+d
+da
+c
+s
+m a 1 10
+l
+s
+pha m
+1225
+c
+s
+sh d
+m m .8 0
+s
+m a 6 9
+d
+da
+c
+s
+sh u
+m m 0 .5
+l
+s
+m m 0 .1
+l
+s
+m a 10 6
+s
+pho 3
+9 3
+6 4
+6 8
+s
+l
+s
+m m .5 0
+l
+s
+m a 5 5
+s
+pho 3
+2 4
+6 6
+2 3
+l
+s
+m a 10 10
+pha m
+820
+c
+report
+s
+sh d
+w 7
+m a 9 8
+s
+m a 9 3
+s
+m a 10 1
+l
+m m -.1 -.1
+l
+s
+m a 8 4
+d
+da
+planets
+report
+c
+s
+w 6
+m a 10 10
+sh u
+m m .1 -.1
+l
+s
+sen
+m a 4 1
+pho 3
+5 1
+10 2
+2 5
+l
+s
+pho 1
+10 2
+pha m
+1200
+sh d
+w 6
+c
+s
+w 7
+m a 1 10
+l
+s
+pha m
+900
+sh d
+c
+l
+s
+w 7
+sh
+y
+-1200
+s
+m a 7 8
+s
+m a 10 10
+l
+m m .1 -.1
+l
+s
+m a 1 3
+d
+da
+w 6
+report
+c
+s
+sh u
+pha m
+s
+m m .1 0
+pha m
+1400
+d
+da
+s
+m m 0 .1
+l
+s
+pho 3
+10 1
+10 1
+4 3
+s
+l
+m m .7 0
+l
+s
+pha m
+1100
+680
+sh d
+c
+s
+m m -.1 -.1
+l
+s
+m a 1 3
+d
+da
+c
+probe
+y
+y
+a
+8 5
+s
+m m 0 1
+l
+s
+pha m
+740
+sh d
+c
+report
+s
+w 7
+sh d
+m a 10 6
+m a 6 3 10 1
+l
+s
+sh u
+l
+m m -.1 -.1
+l
+s
+m a 5 5
+d
+da
+c
+probe
+y
+y
+a
+3 2
+s
+w 6
+m m 0 .4
+l
+s
+m m 0 .1
+l
+s
+pho 2
+9 5
+8 9
+s
+m m 0 -.1
+l
+s
+m a 4 6
+d
+da
+c
+s
+sh d
+m m 0 .4
+l
+s
+m a 10 1
+s
+m m 0 -.1
+m m 0 .1
+s
+m a 1 1
+l
+s
+sh u
+m m -.1 .1
+l
+s
+pho 3
+7 6
+6 6
+6 7
+s
+pho 3
+5 8
+5 5
+2 8
+s
+pha m
+20
+sh d
+l
+s
+m a 9 9
+m a 1 9
+sh u
+s
+m m 0 .1
+l
+s
+sen
+pho 1
+3 7
+sh d
+w 7
+c
+m a 7 2 1 1
+l
+s
+m a 8 8
+l
+s
+pha m
+805
+320
+0
+pha m
+450
+sh d
+c
+s
+sh
+y
+-1200
+w 7
+m a 7 2 1 10
+s
+d
+da
+w 6
+c
+probe
+y
+y
+a
+5 5
+s
+m a 4 2 1 1
+l
+s
+sen
+pha m
+280
+340
+450
+0
+0
+s
+pha m
+765
+c
+s
+w 7
+sh d
+m a 10 8
+m a 7 2 1 10
+s
+m a 1 4
+d
+da
+w 6
+c
+s
+m a 4 2 1 1
+l
+s
+sh u
+m m -.1 .1
+l
+s
+pho 3
+9 5
+4 6
+2 6
+pha m
+350
+340
+365
+580
+sh d
+c
+s
+w 7
+m a 7 2 1 1
+l
+s
+m a 3 9
+d
+da
+c
+report
+s
+w 6
+m a 3 1 1 10
+l
+s
+pha m
+255
+830
+325
+280
+405
+0
+0
+0
+s
+pha m
+0
+s
+pho 1
+1 3
+s
+pho 1
+1 3
+pha m
+25
+sh d
+c
+s
+m a 6 1
+w 7
+m a 7 2 1 10
+s
+pho 1
+1 1
+s
+m a 3 2
+d
+da
+c
+da
+w 6
+report
+s
+m a 3 1 1 10
+l
+s
+m a 1 6
+pha m
+1195
+0
+s
+pho 1
+9 9
+sh d
+c
+s
+m a 3 10
+l
+sh u
+m m .1 0
+l
+s
+pho 2
+1 2
+8 5
+s
+m m 0 -1
+l
+s
+c
+s
+sh d
+m m 0 -.9
+s
+m a 1 4
+s
+m a 2 9
+d
+da
+c
+report
+s
+m a 6 7 1 10
+l
+s
+sh u
+m m .1 .1
+l
+s
+pho 3
+7 1
+10 5
+8 6
+s
+pha m
+590
+s
+l
+sh d
+s
+m a 1 2
+sh u
+m m 0 .1
+l
+s
+m a 10 1
+s
+pho 2
+1 1
+1 1
+l
+sh d
+c
+s
+w 7
+m a 2 7 10 10
+s
+m a 10 2
+s
+m a 8 1
+d
+da
+c
+s
+m a 3 7 10 1
+l
+s
+sen
+sh u
+m m -.1 -.1
+l
+s
+pho 2
+3 1
+7 6
+s
+l
+s
+m a 10 8
+m m 0 -.1
+l
+s
+pho 3
+3 8
+5 8
+9 3
+s
+l
+
+c
+s
+m m 0 -1
+l
+s
+pha m
+620
+sh d
+m m 0 .1
+l
+s
+c
+s
+w 7
+sh
+y
+-1200
+m a 7 2 1 10
+s
+m a 5 2
+d
+da
+report
+planets
+c
+s
+m a 1 4
+m a 6 2 1 10
+l
+sh u
+m m .1 .1
+l
+s
+m a 10 5
+s
+pho 3
+5 3
+8 8
+4 10
+l
+s
+m a 9 7
+s
+m m .4 0
+l
+s
+pho 1
+5 5
+l
+s
+m m 0 -.2
+s
+m a 4 1
+s
+pho 3
+4 5
+6 2
+8 5
+s
+l
+sh d
+c
+s
+m a 8 10
+l
+sh u
+m m .1 0
+l
+s
+m a 6 3
+pho 1
+8 4
+s
+sh d
+planets
+c
+s
+m a 1 7
+m a 5 7 10 1
+s
+sen
+sh
+y
+-1200
+s
+sh
+y
+1200
+s
+pha m
+900
+s
+pha m
+23
+s
+crystals
+y
+s
+m a 9 2
+l
+s
+pha m
+750
+380
+390
+470
+0
+0
+0
+s
+pha m
+da
+s
+pho 2
+4 8
+4 10
+s
+m a 6 10
+pho 1
+c
+s
+m m .1 0
+l
+s
+m m -.1 0
+s
+m m 0 -1
+s
+c
+da
+sh d
+w 7
+s
+sh
+y
+1200
+s
+c
+m a 7 2 1 7
+w 4
+m a 7 2 1 7
+s
+m a 5 8
+d
+da
+rest
+.75
+da
+c
+s
+w 7
+m a 5 7 5 5
+s
+m a 9 5
+orbit
+shuttle
+transport
+mine
+shuttle
+c
+planets
+c
+s
+w 7
+m a 7 2 1 10
+s
+m a 2 2
+d
+da
+w 6
+c
+s
+m m 0 1.1
+l
+sh u
+s
+m m 0 .1
+l
+s
+m a 3 8
+pho 1
+1 8
+l
+sh d
+c
+s
+m a 3 1 1 10
+sh u
+l
+s
+m m 0 .1
+l
+s
+m a 8 7
+s
+pho 3
+9 3
+6 4
+6 9
+s
+l
+s
+m m 0 .7
+l
+s
+m m 0 .1
+l
+s
+m a 6 7
+s
+pho 3
+8 5
+6 3
+4 10
+s
+pho 1
+1 8
+sh d
+c
+s
+c
+s
+m a 10 7
+w 7
+m a 7 2 1 1
+w 4
+m a 7 2 1 1
+l
+s
+m a 8 6
+m a 7 2 1 1
+s
+m a 7 8
+d
+da
+c
+s
+m a 1 6
+m a 4 2 1 10
+da
+sh u
+m m .1 .1
+l
+s
+m a 1 1
+pho 1
+1 2
+l
+s
+c
+s
+sh d
+m m 0 1
+l
+sh u
+m m 0 .1
+l
+s
+m a 10 6
+pho 3
+9 5
+6 5
+8 8
+
+s
+l
+m m .5  0
+l
+s
+sen
+m a 5 8
+pha m
+590
+400
+sh d
+c
+s
+m a 10 7
+m m 0 -1
+l
+s
+sh u
+m m 0 -.1
+l
+s
+pho 1
+3 6
+sh d
+s
+c
+s
+da
+m a 2 3 1 1
+sh u
+l
+m m -.1 .1
+l
+s
+pha m
+290
+660
+n
+n

@@ -1,0 +1,188 @@
+t
+901127317
+s
+em
+toto
+
+l
+c
+s
+pha m
+1580
+sh d
+w 6
+l
+c
+report
+s
+m a 10 6
+s
+l
+m m 0 -1
+l
+s
+l
+m m 0 -1
+l
+s
+l
+m m 0 -.2
+l
+s
+m a 2 2
+s
+m a 10 2
+s
+d
+da
+c
+s
+sh u
+m m -.2 0
+l
+s
+pho 3
+7 4
+5 8
+5 4
+s
+pho 3
+9 9
+9 9
+6 10
+s
+pho 3
+6 7
+4 7
+4 6
+s
+l
+m m 0 -.2
+l
+s
+pho 1
+6 9
+s
+l
+m m .1 .1
+l
+s
+m a 3 7
+s
+m a 7 10
+d
+da
+s
+m m 0 .1
+l
+s
+d
+m a 1 1
+l
+s
+sen
+m a 2 6
+s
+pha m
+1100
+0
+s
+pha m
+450
+s
+pha m
+100
+s
+pho 1
+2 10
+s
+orbit
+shuttle
+s
+w 7
+m a 6 3
+orbit
+s
+shuttle
+sh d
+shuttle
+mine
+beam
+transport
+n
+report
+s
+m m .1 0
+s
+orbit
+m m -.1 0
+orbit
+shuttle
+transport
+mine
+shuttle
+s
+w 8
+l
+c
+s
+sh d
+m 1 0
+l
+s
+crystals
+
+s
+deathray
+y
+l
+s
+l
+c
+s
+w 8
+m a 1 3
+s
+m m 1 0
+sh d
+m m 1 0
+l
+s
+sen
+crystals
+n
+crystals
+y
+l
+s
+l
+pho 1
+10 3
+s
+report
+s
+c
+planets
+s
+sh u
+m m 0 .1
+l
+s
+sen
+m a 7 6
+s
+pho 3
+6 6
+1 9
+6 10
+s
+pha m
+m a 3 5
+s
+pho 1
+1 9
+s
+call
+quit
+n
+n

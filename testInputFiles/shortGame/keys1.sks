@@ -1,0 +1,116 @@
+t
+320771231
+s
+ex
+toto
+
+l
+s
+w 6
+c
+s
+m a 6 5
+s
+m a 10 1
+s
+sh u
+l
+m m -.1 -.1
+l
+s
+pho 2
+4 2
+4 2
+s
+c
+s
+m a 5 3
+s
+pha m
+520
+l
+sh d
+c
+s
+m m 0 -1.5
+l
+s
+m m 0 -.1
+l
+s
+m a 3 8
+d
+da
+l
+c
+s
+m a 1 1
+sh u
+m m -.1 0
+l
+s
+pha m
+1225
+s
+l
+m m .1 0
+l
+s
+m a 6 2
+s
+s
+l
+s
+m a 5 8
+d
+da
+report
+c
+s
+sh d
+s
+m m .3 0
+l
+s
+m a 10 10
+l
+sh u
+m m .1 -.1
+l
+s
+pha m
+770
+355
+0
+s
+pha m
+525
+sh d
+c
+s
+m a 3 8 10 5
+l
+s
+pha m
+1220
+s
+m m .1 0
+s
+m m 0 -.1
+s
+m m 0 .1
+l
+s
+m a 5 2
+d
+da
+c
+probe
+y
+y
+a
+2 8
+s
+m m 0 .5
+n
+n

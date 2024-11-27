@@ -1,0 +1,65 @@
+t
+220093372
+l
+em
+toto
+
+l
+s
+sen
+w 6
+m a 4 8
+orbit
+shuttle
+mine
+transport
+n
+report
+c
+s
+m a 10 4
+s
+m a 10 1
+l
+m m -.1 -.1
+l
+s
+m a 2 9
+s
+m a 2 7
+d
+da
+c
+
+s
+sh u
+w 7
+m m 0 .2
+l
+s
+pha m
+855
+
+l
+s
+sh d
+m a 1 10
+s
+sh u
+m m .1 .1
+l
+s
+
+pha m
+495
+555
+0
+0
+s
+sen
+pho 1
+2 3
+l
+quit
+n
+n

@@ -1,0 +1,398 @@
+t
+199102315
+m
+ex
+toto
+
+l
+s
+c
+w 7
+w 6.9
+s
+m a 1 10
+m m .1 .1
+l
+s
+m a 3 8
+d
+da
+s
+sh u
+m m 0 .3
+l
+s
+m a 10 4
+pho 3
+8 7
+3 2
+6 10
+s
+pha m
+280
+450
+460
+sh d
+m m 0 -.1
+s
+m a 7 7
+d
+da
+c
+s
+m a 7 10
+m a 10 10
+l
+m m .1 -.1
+l
+s
+c
+s
+m a 10 1
+l
+s
+m a 3 2
+pha m
+770
+0
+s
+c
+s
+m m 0 .3
+l
+s
+m a 6 6
+pha m
+1150
+sh d
+w 7
+c
+s
+m m 0 -1.5
+l
+s
+m a 4 6
+d
+da
+s
+m m 0 -.1
+s
+pha m
+450
+d
+da
+c
+report
+s
+m a 6 8
+s
+m m 0 -.5
+l
+s
+m a 10 8
+sh u
+m m 0 -.1
+l
+s
+m a 6 7
+pha m
+1025
+sh d
+c
+s
+m a 1 5
+w 7
+s
+m a 1 10
+c
+m a 8 5 10 10
+l
+c
+s
+sen
+report
+sh u
+m m 1 0
+call
+s
+m a 5 5
+pha m
+1900
+sh d
+s
+m a 3 7
+d
+da
+c
+l
+c
+report
+probe
+y
+y
+a
+8 8
+s
+w 6
+c
+s
+m a 4 1
+sh u
+m m -.1 0
+l
+s
+pha m
+1200
+sh d
+m m .1 0
+s
+m a 8 1
+d
+da
+c
+probe
+y
+y
+a
+3 2
+s
+m a 1 1
+m m 0 1
+l
+s
+m m 0 1
+l
+s
+sen
+s
+m a 10 1
+s
+pho 1
+10 5
+s
+l
+c
+probe
+s
+m a 1 7
+s
+m m .3 0
+sh u
+m m .1 .1
+l
+s
+m a 10 5
+s
+pho 2
+6 5
+8 8
+s
+pho 1
+8 8
+s
+c
+abandon
+l
+s
+c
+s
+w 6
+m a 1 10
+l
+m m 0 1
+l
+s
+sh u
+m m 0 .1
+l
+s
+c
+s
+m a 4 9
+s
+pho 1
+2 10
+s
+pha m
+275
+sh d
+s
+l
+m a 1 10
+l
+sh u
+m m .1 .1
+l
+s
+pho 2
+10 3
+3 4
+pha m
+130
+l
+c
+s
+sh d
+w 7
+m a 6 10
+m m .1 0
+l
+s
+sen
+m a 7 8
+d
+da
+c
+s
+m a 1 7
+m m 0 .1
+l
+s
+c
+s
+m a 10 1
+sh u
+m m -.1 -.1
+l
+s
+pho 1
+1 1
+s
+m a 1 1
+l
+m m -.1 0
+l
+s
+pho 3
+6 10
+1 5
+6 10
+s
+pho 3
+3 9
+2
+3 9
+2 8
+s
+call
+s
+sen
+c
+report
+c
+s
+w 6
+sh d
+da
+rest
+1.83
+da
+w 6
+sh d
+c
+s
+m m -1.2 0
+l
+s
+sh u
+m m -.1 0
+s
+pho 3
+10 6
+6 6
+1 9
+s
+pho 2
+10 9
+10 2
+sh d
+c
+s
+m a 10 1
+c
+s
+m a 4 4 1 1
+l
+s
+m m -.1 0
+l
+s
+w 7
+m a 5 2
+s
+m a 9 2
+d
+da
+c
+s
+w 6
+s
+m a 5 3
+s
+m a 1 10
+l
+sh u
+m m .1 .1
+l
+s
+pho 3
+9 1
+9 2
+10 7
+s
+pho 1
+9 5
+s
+pha m
+400
+435
+sh d
+c
+s
+m a 4 3 1 10
+s
+m a 9 8
+s
+m a 9 2
+d
+da
+c
+report
+planets
+c
+s
+m a 1 1
+l
+m m 0 1
+l
+s
+c
+s
+m m -.1 .1
+l
+s
+c
+s
+m a 2 8
+s
+m a 2 2
+m a 1 1
+sh u
+m m -.1 .1
+l
+s
+pho 3
+10 9
+6 7
+2 3
+s
+pha m
+500
+s
+m m 0 -.1
+l
+s
+destruct
+toto
+n
+n

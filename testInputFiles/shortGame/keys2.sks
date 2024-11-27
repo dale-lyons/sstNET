@@ -1,0 +1,75 @@
+t
+311009231
+s
+novice
+toto
+
+l
+s
+c
+w 6
+sh u
+m m 0 -.5
+l
+s
+m a 5 5
+s
+pho 2
+5 10
+10 8
+s
+l
+c
+s
+sh d
+m a 1 4
+m a 1 1
+l
+s
+c
+probe
+y
+n
+a
+7 2
+l
+c
+s
+m m -1 0
+l
+s
+c
+s
+m m -1 0
+l
+s
+pha m
+1300
+sen
+c
+probe
+s
+m m -.1 .1
+l
+s
+m a 10 9
+d
+da
+c
+probe
+y
+n
+a
+7 7
+s
+m a 5 10
+s
+m a 1 10
+sh u
+m m .1 .1
+l
+s
+pha m
+780
+n
+n

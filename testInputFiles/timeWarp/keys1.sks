@@ -1,0 +1,170 @@
+t
+220093372
+l
+em
+toto
+
+l
+s
+sen
+w 6
+m a 4 8
+orbit
+shuttle
+mine
+transport
+n
+report
+c
+s
+m a 10 4
+s
+m a 10 1
+l
+m m -.1 -.1
+l
+s
+m a 2 9
+s
+m a 2 7
+d
+da
+c
+
+s
+sh u
+w 7
+m m 0 .2
+l
+s
+pha m
+855
+m m 0 -.
+m m 0 -.1
+l
+s
+m a 4 3
+s
+m a 4 2
+d
+c
+s
+m m -.2 0
+l
+s
+pho 3
+6 2
+1 3
+1 10
+s
+pha m
+255
+475
+425
+450
+sh d
+s
+m m .1 0
+s
+m a 6 5
+d
+da
+report
+planets
+c
+s
+m a 1 10
+m m 0 1
+l
+s
+w 4
+m a 1 10
+l
+sh u
+m m .1 .1
+l
+s
+sen
+pho 3
+3 4
+6 4
+7 5
+pha m
+1100
+120
+sh d
+l
+s
+m m -.1 -.1
+s
+m a 3 8
+s
+l
+m m 0 -.8
+s
+m m -.1 0
+d
+da
+report
+planets
+rest
+.5
+report
+planets
+l
+c
+planets
+report
+da
+rest
+.31
+w 10
+c
+s
+report
+planets
+m a 6 2 1 10
+report
+planets
+w 4
+l
+s
+c
+s
+m a 1 10
+l
+s
+sh u
+m m .1 .1
+l
+s
+sen
+
+pho 3
+5 6
+9 4
+9 6
+pha m
+590
+da
+w 4
+w 5
+s
+sen
+planets
+c
+s
+m a 8 2 1 10
+l
+s
+m a 4 10
+d
+da
+rest
+.78
+c
+da
+report
+quit
+n
+n

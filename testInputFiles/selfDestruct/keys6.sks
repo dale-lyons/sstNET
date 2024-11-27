@@ -1,0 +1,459 @@
+t
+781005431
+l
+g
+toto
+
+l
+s
+c
+s
+w 7
+m a 1 7
+sh u
+m m 0 .1
+l
+s
+pho 3
+7 5
+9 9
+4 1
+s
+pha m
+780
+sh d
+c
+s
+m a 1 9
+s
+m a 1 10
+sh u
+l
+m m .1 .1
+l
+s
+pho 1
+8 4
+s
+l
+m a 5 6
+pha m
+290
+240
+sh d
+s
+m m .5 0
+l
+s
+m m .1 0
+d
+dq
+da
+c
+
+s
+m a 10 3
+l
+s
+pho 3
+5 7
+9 2
+9 1
+s
+l
+c
+s
+sh d
+m a 1 10
+sh u
+m m .1 .1
+l
+s
+m a 5 5
+s
+pho 3
+7 1
+2 5
+10 5
+s
+pha m
+300
+l
+s
+m m -.6 0
+l
+s
+pha m
+1070
+sh d
+c
+s
+m a 3 3 1 1
+l
+s
+m a 1 6
+d
+da
+c
+s
+m a 2 2 10 1
+l
+sh u
+m m -.1 0
+l
+s
+sen
+pho 2
+8 10
+1 6
+s
+pho 1
+1 6
+s
+pho 1
+1 6
+l
+s
+m m 0 -.1
+l
+s
+
+m a 5 10
+s
+pho 3
+1 7
+9 3
+5 10
+pho 2
+3 7
+9 3
+s
+pha m
+470
+195
+sh d
+c
+s
+m a 3 3 5 1
+s
+m a 7 1
+d
+da
+c
+report
+s
+m a 8 2
+s
+m a 10 1
+m m 0 -.1
+l
+s
+m a 3 9
+d
+da
+c
+s
+m a 9 9
+s
+sh u
+m m 0 -.2
+l
+s
+m a 1 5
+pho 3
+4 3
+3 6
+10 5
+s
+c
+s
+m m .6 0
+l
+s
+pho 3
+9 1
+6 5
+8 8
+s
+c
+s
+m m -.1 .1
+l
+s
+sh d
+m a 4 4
+d
+da
+c
+s
+m a 5 3 10 10
+l
+s
+sh u
+m m .1 -.1
+l
+s
+pho 2
+2 3
+3 6
+s
+m a 1 5
+s
+pho 3
+8 1
+7 3
+9 7
+s
+pha m
+320
+sh d
+c
+s
+m a 4 3 10 10
+l
+s
+report
+s
+pho 3
+7 7
+7 4
+2 5
+s
+pha m
+305
+340
+360
+l
+c
+report
+s
+sh d
+sh
+y
+-1200
+m a 4 4 4 1
+l
+sh u
+m m -.1 0
+l
+s
+w 6
+m a 3 5
+pha m
+999
+sh d
+c
+s
+m m 0 .3
+l
+s
+d
+da
+s
+report
+c
+planets
+s
+m a 6 3 10 1
+l
+s
+sh u
+m m -.1 -.1
+l
+s
+pho 3
+2 10
+4 2
+7 6
+pha m
+20
+l
+c
+s
+m m 1 0
+l
+s
+sen
+m a 8 8
+s
+m a 8 5
+orbit
+shuttle
+sh d
+shuttle
+mine
+shuttle
+c
+s
+m m 1.5 0
+l
+s
+c
+s
+m m 1 0
+l
+s
+c
+s
+m m 1 -.2
+l
+s
+sen
+m m .1 -.1
+l
+s
+m a 1 9
+d
+da
+c
+s
+sh u
+m m .2 0
+l
+s
+pho 2
+2 9
+10 8
+pha m
+575
+c
+sh d
+m  m 0 1
+l
+s
+sh u
+m m 0 .1
+l
+s
+pha m
+330
+390
+570
+sh d
+c
+m a 8 7 1 10
+s
+m a 3 3
+s
+m a 6 3
+d
+da
+c
+s
+m a 1 5
+m m 0 1
+l
+s
+sh u
+m m 0 .1
+l
+s
+pho 1
+7 4
+s
+l
+m m 0 1
+l
+s
+pho 3
+7 5
+8 8
+9 10
+s
+c
+s
+m  m -.5 0
+l
+s
+pho 1
+10 7
+pha m
+500
+440
+sh d
+c
+s
+m a 5 9
+s
+m a 3 7
+s
+m a 1 5
+c
+m a 3 5 1 10
+l
+s
+c
+m  m 0 1
+l
+s
+sh u
+m m 0 .1
+l
+s
+m a 6 6
+pho 3
+1 9
+6 2
+8 10
+s
+sh d
+m a 8 4
+d
+da
+c
+probe
+y
+y
+a
+3 8
+s
+m a 9 10
+sh u
+m m .1 -.2
+l
+s
+m a 2 3
+s
+pho 3
+2 7
+4 4
+7 9
+c
+s
+sh d
+m a 10 6
+c
+probe
+y
+y
+a
+2 7
+sh u
+s
+m m 0 -.1
+l
+s
+sen
+c
+s
+m a 10 4
+c
+probe
+y
+y
+a
+3 7
+m m 0 -.1
+l
+s
+deathray
+y
+s
+c
+s
+abadon
+abandon
+destruct
+toto
+n
+n

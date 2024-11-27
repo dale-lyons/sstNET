@@ -1,0 +1,435 @@
+t
+1190001266
+m
+ex
+toto
+
+l
+s
+m a 10 1
+pha m
+1175
+c
+s
+w 7
+m a 1 1
+l
+m m 0 .1
+l
+s
+sh d
+m a 1 5
+l
+sh u
+m m 0 -.1
+l
+s
+m m 0 .2
+l
+s
+m a 1 5
+pha m
+855
+m m 0 .1
+l
+s
+m m 0 .1
+d
+da
+c
+
+probe
+y
+y
+a
+1 1
+s
+sen
+sh d
+m a 3 10
+s
+m m 0 .1
+orbit
+shuttle
+mine
+transport
+planets
+n
+l
+s
+m a 7 6
+d
+da
+report
+planets
+c
+probe
+s
+l
+m m 0 .7
+l
+s
+c
+probe
+y
+y
+a
+8 1
+s
+m m 0 1
+l
+s
+c
+s
+m a 1 2
+m m -.2 .2
+l
+s
+c
+s
+sh u
+c
+m a 1 8 10 1
+l
+s
+m a 6 8
+s
+pha m
+1100
+sh d
+report
+c
+s
+s
+m a 5 8 1 1
+l
+s
+deathray
+y
+l
+c
+s
+sh d
+sh
+y
+-1500
+m a 4 5 1 1
+l
+s
+
+l
+sh u
+m m -.1 .1
+l
+s
+call
+s
+pho 3
+2 1
+9 1
+10 1
+s
+m m 0 -.1
+pho 3
+2 5
+2 7
+6 8
+s
+pha m
+450
+sh d
+s
+d
+da
+
+s
+m a 4 1
+s
+pho 1
+4 1
+pho 1
+1 5
+l
+s
+
+v
+c
+report
+s
+sh u
+m m 0 .4
+l
+s
+m a 10 5
+pha m
+995
+c
+s
+m m 0 -.1
+l
+s
+pho 2
+2 4
+9 8
+pha m
+255
+l
+c
+s
+sh d
+m a 7 1
+m m -1 0
+l
+s
+pha m
+895
+c
+s
+m m -.1 -.4
+l
+s
+m m .1 .1
+
+m m -.1 .1
+l
+s
+l
+m m 0 -.2
+l
+s
+m a 5 9
+s
+m a 8 9
+d
+da
+c
+s
+sh u
+m m .2 0
+l
+s
+pho 3
+10 1
+7 2
+8 3
+s
+pho 3
+5 6
+9 6
+9 9
+s
+pha m
+435
+sh d
+m m -.1 0
+l
+s
+d
+da
+c
+probe
+y
+y
+a
+2 2
+l
+s
+m m .1 0
+l
+s
+m a 1 1
+c
+s
+m m 0 2
+l
+s
+sh u
+m m -.1 .1
+l
+s
+m a 7 10
+
+s
+pho 3
+8 9
+3 7
+9 6
+s
+pho 1
+9 1
+l
+sh d
+c
+s
+m a 10 10
+m m 0 -1
+l
+s
+l
+m m 0 -1
+l
+s
+c
+s
+m m 0 -.1
+l
+s
+m a 5 7
+d
+da
+c
+s
+planets
+m a 1 1
+m a 5 2 1 1
+l
+s
+pha m
+965
+sen
+sh d
+s
+m a 5 9
+orbit
+l
+s
+m a 8 4
+pha m
+965
+sh d
+l
+c
+report
+planets
+s
+abandon
+planets
+call
+s
+sen
+l
+c
+planets
+s
+w 6
+m a 5 7
+s
+m a 4 4
+orbit
+transport
+mine
+shuttle
+c
+s
+m a 1 2
+m a 5 7 1 1
+l
+sh u
+m m -.1 .1
+l
+s
+pho 1
+6 10
+pha m
+330
+495
+c
+report
+s
+sh d
+m a 3 7 1 1
+s
+m m .1 0
+s
+m m 0 .2
+l
+s
+m a 1 1
+l
+sh u
+m m -.1 .1
+l
+s
+m a 5 5
+s
+pho 2
+5 4
+6 1
+pha m
+300
+c
+s
+abandon
+s
+c
+s
+m a 1 7
+m a 3 3 1 10
+l
+s
+sh u
+m m .1 .1
+l
+s
+m a 6 1
+s
+pho 3
+4 1
+3 3
+7 5
+s
+sen
+pha m
+380
+330
+550
+sh d
+c
+s
+m a 8 2 5 5
+sh
+y
+-1000
+m a 8 2 5 5
+s
+m a 4 7
+d
+da
+c
+s
+m a 2 3 1 1
+l
+sh u
+m m 0 .1
+l
+s
+pho 3
+7 2
+10 4
+10 5
+s
+m a 6 1
+s
+pho 3
+3 1
+7 5
+8 5
+l
+pha m
+220
+c
+s
+sh d
+m a 1 5
+s
+m m 1 0
+l
+s
+m a 5 10
+sh u
+m m .1 0
+l
+s
+m a 10 3
+n
+n

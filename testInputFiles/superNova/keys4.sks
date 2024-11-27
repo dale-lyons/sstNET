@@ -1,0 +1,256 @@
+t
+229005613
+l
+em
+toto
+
+l
+s
+m a 7 1
+s
+pho 3
+4 2
+3 4
+5 6
+s
+l
+report
+planets
+c
+s
+w 6
+sh d
+m a 1 8
+s
+sh u
+m m .3 .1
+l
+s
+pho 3
+10 8
+5 5
+4 7
+s
+l
+sh d
+s
+m a 1 7
+l
+s
+m a 1 10
+s
+pho 3
+2 5
+4 8
+2 1
+s
+s
+pho 3
+1
+3 3
+pha m
+290
+530
+l
+sh d
+c
+s
+m a 1 1
+l
+s
+deathray
+y
+l
+c
+s
+sh d
+m a 6 3
+s
+m a 6 1
+sh u
+m m -.1 0
+l
+s
+call
+s
+m m 0 .1
+pha m
+390
+380
+455
+470
+d
+da
+c
+report
+s
+m m 0 -.4
+l
+s
+sen
+m a 6 3
+s
+pho 3
+4 6
+8 7
+7 9
+s
+sh d
+m a 4 3
+orbit
+shuttle
+mine
+shuttle
+c
+s
+m a 1 10
+c
+probe
+y
+y
+a
+3 1
+s
+sh u
+m m .1 0
+l
+s
+pho 1
+1 4
+l
+c
+s
+sh d
+m m -.1 .1
+l
+s
+m a 9 8
+s
+m a 9 5
+d
+da
+c
+s
+m a 8 4
+s
+m a 1 4
+sh u
+report
+sh u
+m m 0 .1
+l
+s
+pho 3
+10 5
+8 7
+6 5
+s
+c
+s
+m m 0 -.1
+l;
+s
+m a 5 4
+d
+da
+c
+s
+m a 1 1
+m m -.1 .1
+l
+s
+pho 3
+8 9
+8 10
+4 6
+s
+pho 3
+9 7
+8 9
+7 7
+s
+m a 3 5
+pha m
+450
+200
+sh d
+c
+s
+m a 10 10
+m m .1 -.1
+l
+s
+m a 6 2
+d
+da
+c
+report
+planets
+c
+s
+m a 1 1
+l
+m m 0 1
+l
+s
+sh u
+m m 0 .1
+l
+s
+pho 3
+8 2
+10 7
+8 7
+s
+m a 6 8
+pha m
+235
+235
+235
+380
+sh d
+c
+s
+m a 10 9
+sh u
+s
+m m 0 -.1
+s
+m m .2 0
+l
+s
+pha m
+370
+sh d
+c
+s
+m a 4 4 1 10
+s
+m a 10 4
+l
+s
+pho 3
+9 6
+4 9
+2 8
+s
+pha m
+620
+250
+270
+0
+0
+0
+0
+0
+s
+call
+da
+pha m
+610
+0
+0
+0
+0
+n
+n
